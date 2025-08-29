@@ -1,6 +1,4 @@
-# Writeups repo
-
-i made this repo to make writeups here, to help people learn. 
+i made this repo to make writeups here, to help people learn 
 
 if you like them or wanna support me, please star this repo, i'd really appreciate it. thank you
 
