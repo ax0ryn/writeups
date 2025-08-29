@@ -56,7 +56,7 @@ we can see here that password auth is enabled which isn't the safest. when we ge
 
 after messing around for a bit, we can see a weird response header in burp suite:  
 
-![weird header](../../images/htb/paper/weird-header.webp)  
+![weird header](../images/htb/paper/weird-header.webp)  
 
 interesting.. let's add that to our /etc/hosts file:  
 
