@@ -2,11 +2,12 @@ a walkthrough of the nocturnal machine. enumerate hidden endpoints, abuse an IDO
 
 # Introduction
 
-**Name:** Nocturnal
-**Platform:** HTB
-**Difficulty:** Easy
-**Challenge type:** Boot2Root machine
-
+**Name:** Nocturnal  
+**Platform:** HTB  
+**Difficulty:** Easy  
+**Challenge type:** Boot2Root machine  
+**Challenge author:** FisMatHack  
+ 
 # Recon Phase
 
 i started this machine off with an nmap scan:
