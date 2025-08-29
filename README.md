@@ -8,3 +8,4 @@ if you like them or wanna support me, please star this repo, i'd really apprecia
 
 ### HackTheBox 
 - [Nocturnal](./htb/nocturnal.md)
+- [Paper](./htb/paper.md)
