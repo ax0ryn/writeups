@@ -14,3 +14,4 @@ if you like my writeups and/or wanna support me, please star this repo, i'd real
 
 ### TryHackMe 
 - [CyberHeroes](./thm/cyberheroes.md)
+- [MrRobot CTF](./thm/mrrobot.md)
