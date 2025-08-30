@@ -1,8 +1,8 @@
 ## About this repo 
 
-i made this repo to make writeups so that i can help people learn 
+i created this repo to make writeups so that i can share my writeups and (hopefully) help people learn 
 
-if you like my writeups and/or wanna support me, please star this repo, i'd really appreciate it. thank you
+if you find my writeups useful and/or wanna support me, please give this repo a ⭐, i'd really appreciate it. thank you
 
 --- 
 
