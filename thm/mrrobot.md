@@ -184,5 +184,3 @@ root
 ```
 
 this machine was fun, the final key is in `/root`.  
-
-© 2025 ax0ryn. created with coffee  
