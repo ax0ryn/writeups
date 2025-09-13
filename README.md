@@ -11,6 +11,7 @@ if you find my writeups useful and/or wanna support me, please give this repo a 
 ### HackTheBox 
 - [Nocturnal](./htb/nocturnal.md)
 - [Paper](./htb/paper.md)
+- [Planning](./htb/planning.md)
 
 ### TryHackMe 
 - [CyberHeroes](./thm/cyberheroes.md)
